@@ -1,7 +1,7 @@
 # Coding Projects
 
 Hi, I’m Noelani 👋  
-I’m currently learning Python and building my programming skills.
+I’m a college student learning Python and working toward a career in tech.
 
 ## Projects
 
