@@ -14,4 +14,4 @@ I’m a college student learning Python and working toward a career in tech.
 - Counts even and odd numbers
 
 ## Goals
-I am currently focused on improving my understanding of Python fundamentals and problem-solving.
+I am currently focused on improving my understanding of Python fundamentals and problem solving.
